@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlockDriver", "FlockDriver\FlockDriver.csproj", "{9B62004B-0828-4ECC-85DE-CE3A79BDAB97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlockProcess", "FlockProcess\FlockProcess.csproj", "{D971E35B-5922-4568-A183-58746C1338C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlockObjects", "FlockObjects\FlockObjects.csproj", "{6BDF6991-7160-4767-BD4B-B1738B745F5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlockInterface", "FlockInterface\FlockInterface.csproj", "{AF524C87-908C-4B97-8B76-7B0CA9B524A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B62004B-0828-4ECC-85DE-CE3A79BDAB97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B62004B-0828-4ECC-85DE-CE3A79BDAB97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B62004B-0828-4ECC-85DE-CE3A79BDAB97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B62004B-0828-4ECC-85DE-CE3A79BDAB97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D971E35B-5922-4568-A183-58746C1338C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D971E35B-5922-4568-A183-58746C1338C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D971E35B-5922-4568-A183-58746C1338C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D971E35B-5922-4568-A183-58746C1338C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BDF6991-7160-4767-BD4B-B1738B745F5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BDF6991-7160-4767-BD4B-B1738B745F5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BDF6991-7160-4767-BD4B-B1738B745F5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BDF6991-7160-4767-BD4B-B1738B745F5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF524C87-908C-4B97-8B76-7B0CA9B524A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF524C87-908C-4B97-8B76-7B0CA9B524A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF524C87-908C-4B97-8B76-7B0CA9B524A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF524C87-908C-4B97-8B76-7B0CA9B524A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
